@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0zh-66-QjK"; */
+"0zh-66-QjK.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "注册按钮"; ObjectID = "4fO-nS-UKB"; */
+"4fO-nS-UKB.normalTitle" = "注册按钮";
+
+/* Class = "UILabel"; text = "这是一个标签"; ObjectID = "4mb-Pk-22a"; */
+"4mb-Pk-22a.text" = "这是一个标签";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9Ie-XY-Mro"; */
+"9Ie-XY-Mro.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "发送消息"; ObjectID = "BTH-vc-JVR"; */
+"BTH-vc-JVR.normalTitle" = "发送消息";
+
+/* Class = "UITabBarItem"; title = "Item 2"; ObjectID = "H9Z-5U-LTu"; */
+"H9Z-5U-LTu.title" = "Item 2";
+
+/* Class = "UIButton"; normalTitle = "断开链接"; ObjectID = "KYN-b1-Ufr"; */
+"KYN-b1-Ufr.normalTitle" = "断开链接";
+
+/* Class = "UIButton"; normalTitle = "UIPageViewController"; ObjectID = "KkJ-p2-9ud"; */
+"KkJ-p2-9ud.normalTitle" = "UIPageViewController";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RtI-su-l1I"; */
+"RtI-su-l1I.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Item2"; ObjectID = "XCe-AL-rc2"; */
+"XCe-AL-rc2.title" = "Item2";
+
+/* Class = "UIButton"; normalTitle = "Socket测试"; ObjectID = "bsf-9m-dwm"; */
+"bsf-9m-dwm.normalTitle" = "Socket测试";
+
+/* Class = "UITabBarItem"; title = "Item 1"; ObjectID = "dc3-s9-o0W"; */
+"dc3-s9-o0W.title" = "Item 1";
+
+/* Class = "UITabBarItem"; title = "Item1"; ObjectID = "eya-t9-Bbr"; */
+"eya-t9-Bbr.title" = "Item1";
+
+/* Class = "UILabel"; text = "这是一个标签"; ObjectID = "fJU-ww-aTm"; */
+"fJU-ww-aTm.text" = "这是一个标签";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "hw4-np-aA4"; */
+"hw4-np-aA4.title" = "Title";
+
+/* Class = "UIButton"; normalTitle = "UISearchController"; ObjectID = "oVU-ZA-1fd"; */
+"oVU-ZA-1fd.normalTitle" = "UISearchController";
+
+/* Class = "UIButton"; normalTitle = "待定"; ObjectID = "qO5-V8-iS6"; */
+"qO5-V8-iS6.normalTitle" = "待定";

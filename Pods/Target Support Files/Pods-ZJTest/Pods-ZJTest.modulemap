@@ -1,0 +1,6 @@
+framework module Pods_ZJTest {
+  umbrella header "Pods-ZJTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
