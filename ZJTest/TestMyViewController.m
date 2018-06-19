@@ -10,6 +10,7 @@
 #import "ContentViewController.h"
 
 @interface TestMyViewController ()<UIPageViewControllerDelegate, UIPageViewControllerDataSource,UICollectionViewDelegate,UICollectionViewDataSource>
+
 @property (nonatomic, strong) UIPageViewController *pageViewController;
 @property (nonatomic, weak) UICollectionView *menuCollectionView;
 @property (nonatomic, weak) UIView *bottomView;

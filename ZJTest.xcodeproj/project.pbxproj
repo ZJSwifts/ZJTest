@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		186B181F20D8D4340051D6F5 /* JiBlock.m in Sources */ = {isa = PBXBuildFile; fileRef = 186B181E20D8D4340051D6F5 /* JiBlock.m */; };
 		77231E6A1E67EA4E005BC05E /* CAAnimation.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77231E691E67EA4E005BC05E /* CAAnimation.storyboard */; };
 		77231E6C1E67EAC9005BC05E /* CoreAnimationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77231E6B1E67EAC9005BC05E /* CoreAnimationVC.swift */; };
 		772D867D1F57DE69007E0F19 /* SeconedList.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 772D867C1F57DE69007E0F19 /* SeconedList.storyboard */; };
@@ -107,6 +108,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		186B181D20D8D4340051D6F5 /* JiBlock.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JiBlock.h; sourceTree = "<group>"; };
+		186B181E20D8D4340051D6F5 /* JiBlock.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JiBlock.m; sourceTree = "<group>"; };
 		4BF5122EBEB4401E3F75DC0C /* Pods_ZJTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZJTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FAFA834D812E5566AD61F3D /* Pods-ZJTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZJTest.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZJTest/Pods-ZJTest.release.xcconfig"; sourceTree = "<group>"; };
 		77231E691E67EA4E005BC05E /* CAAnimation.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = CAAnimation.storyboard; sourceTree = "<group>"; };
@@ -245,6 +248,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		186B181C20D8D3DE0051D6F5 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				186B181D20D8D4340051D6F5 /* JiBlock.h */,
+				186B181E20D8D4340051D6F5 /* JiBlock.m */,
+			);
+			name = Extension;
+			sourceTree = "<group>";
+		};
 		607B848594A409B348D2E776 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -343,6 +355,7 @@
 		776211381E03898E00BE1F88 /* ZJExtUt */ = {
 			isa = PBXGroup;
 			children = (
+				186B181C20D8D3DE0051D6F5 /* Extension */,
 				776F02E41E66A5CB00E58E52 /* StoryBoard */,
 				775F99611E5BF96A005ADDFB /* ViewController */,
 				777824921E28B00100206923 /* JATabbar */,
@@ -705,6 +718,7 @@
 				77C555741E5D8F7900B96EFB /* JATabbarViewController.swift in Sources */,
 				77D77CA11E6D0DE700437640 /* OpenSafariViewController.swift in Sources */,
 				776083331E28886C00C0171A /* JANavViewController.swift in Sources */,
+				186B181F20D8D4340051D6F5 /* JiBlock.m in Sources */,
 				77D3262D1E51943100365B9C /* UIImage+Image.m in Sources */,
 				7756A9B51E24C7D700F54C7D /* JAAppDelegate.swift in Sources */,
 				77D326231E51876C00365B9C /* NSObject+Category.m in Sources */,
