@@ -17,6 +17,7 @@
 		774FB1E420D7A3F8003EA53F /* WKWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 774FB1E320D7A3F8003EA53F /* WKWebViewController.m */; };
 		774FB1E720D7AB8E003EA53F /* WeakScriptMessageDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 774FB1E620D7AB8E003EA53F /* WeakScriptMessageDelegate.m */; };
 		774FB1EA20D7AF00003EA53F /* WKWebConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = 774FB1E920D7AF00003EA53F /* WKWebConfig.m */; };
+		7753AA3821226C9900DE33A6 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7753AA3A21226C9900DE33A6 /* Localizable.strings */; };
 		7756678C1E0CC8AE00E894E0 /* JALabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7756678B1E0CC8AE00E894E0 /* JALabel.swift */; };
 		7756678E1E0D0E4B00E894E0 /* MyExtensionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7756678D1E0D0E4B00E894E0 /* MyExtensionViewController.swift */; };
 		7756A9B51E24C7D700F54C7D /* JAAppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7756A9B41E24C7D700F54C7D /* JAAppDelegate.swift */; };
@@ -50,6 +51,7 @@
 		776211581E0389B000BE1F88 /* JAWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776211491E0389B000BE1F88 /* JAWebView.swift */; };
 		7762115C1E038BA100BE1F88 /* JADate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7762115B1E038BA100BE1F88 /* JADate.swift */; };
 		7762115E1E03DAD500BE1F88 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7762115D1E03DAD500BE1F88 /* TestViewController.swift */; };
+		77683938212FA30E00B5DA7E /* UILabel+Attribut.m in Sources */ = {isa = PBXBuildFile; fileRef = 77683937212FA30E00B5DA7E /* UILabel+Attribut.m */; };
 		776ADED41E237A4A008DE3BE /* JATextFiled.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776ADED31E237A4A008DE3BE /* JATextFiled.swift */; };
 		776B15851E63E0CF00B4DFDF /* PopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776B15841E63E0CF00B4DFDF /* PopViewController.swift */; };
 		776B15C91E6434C600B4DFDF /* PopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776B15C81E6434C600B4DFDF /* PopView.swift */; };
@@ -124,6 +126,8 @@
 		774FB1E620D7AB8E003EA53F /* WeakScriptMessageDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WeakScriptMessageDelegate.m; sourceTree = "<group>"; };
 		774FB1E820D7AF00003EA53F /* WKWebConfig.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKWebConfig.h; sourceTree = "<group>"; };
 		774FB1E920D7AF00003EA53F /* WKWebConfig.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKWebConfig.m; sourceTree = "<group>"; };
+		7753AA3B21226CDD00DE33A6 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		7753AA3C21226CFA00DE33A6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		7756678B1E0CC8AE00E894E0 /* JALabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JALabel.swift; sourceTree = "<group>"; };
 		7756678D1E0D0E4B00E894E0 /* MyExtensionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyExtensionViewController.swift; sourceTree = "<group>"; };
 		7756A9B41E24C7D700F54C7D /* JAAppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JAAppDelegate.swift; sourceTree = "<group>"; };
@@ -166,6 +170,8 @@
 		776211491E0389B000BE1F88 /* JAWebView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JAWebView.swift; sourceTree = "<group>"; };
 		7762115B1E038BA100BE1F88 /* JADate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JADate.swift; sourceTree = "<group>"; };
 		7762115D1E03DAD500BE1F88 /* TestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
+		77683936212FA30E00B5DA7E /* UILabel+Attribut.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UILabel+Attribut.h"; sourceTree = "<group>"; };
+		77683937212FA30E00B5DA7E /* UILabel+Attribut.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UILabel+Attribut.m"; sourceTree = "<group>"; };
 		776ADED31E237A4A008DE3BE /* JATextFiled.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JATextFiled.swift; sourceTree = "<group>"; };
 		776B15841E63E0CF00B4DFDF /* PopViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopViewController.swift; sourceTree = "<group>"; };
 		776B15C81E6434C600B4DFDF /* PopView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopView.swift; sourceTree = "<group>"; };
@@ -318,7 +324,7 @@
 			children = (
 				775ECB051E4AD5810083479C /* ZJTest.entitlements */,
 				776211391E0389AF00BE1F88 /* ZJTest-Bridging-Header.h */,
-				776211381E03898E00BE1F88 /* ZJExtUt */,
+				776211381E03898E00BE1F88 /* ExtUtil */,
 				7762110A1E03894700BE1F88 /* AppDelegate.swift */,
 				7762110C1E03894700BE1F88 /* ViewController.swift */,
 				775C0F451E0BD51200F45494 /* MyWebViewController.swift */,
@@ -330,6 +336,7 @@
 				776211111E03894700BE1F88 /* Assets.xcassets */,
 				776211131E03894700BE1F88 /* LaunchScreen.storyboard */,
 				776211161E03894700BE1F88 /* Info.plist */,
+				7753AA3A21226C9900DE33A6 /* Localizable.strings */,
 			);
 			path = ZJTest;
 			sourceTree = "<group>";
@@ -352,7 +359,7 @@
 			path = ZJTestUITests;
 			sourceTree = "<group>";
 		};
-		776211381E03898E00BE1F88 /* ZJExtUt */ = {
+		776211381E03898E00BE1F88 /* ExtUtil */ = {
 			isa = PBXGroup;
 			children = (
 				186B181C20D8D3DE0051D6F5 /* Extension */,
@@ -395,8 +402,10 @@
 				77D3262A1E51943100365B9C /* UIImage+Image.m */,
 				776D23C71E6020710021E807 /* TDAlertView.h */,
 				776D23C81E6020710021E807 /* TDAlertView.m */,
+				77683936212FA30E00B5DA7E /* UILabel+Attribut.h */,
+				77683937212FA30E00B5DA7E /* UILabel+Attribut.m */,
 			);
-			name = ZJExtUt;
+			name = ExtUtil;
 			sourceTree = "<group>";
 		};
 		776F02E31E66A3ED00E58E52 /* View */ = {
@@ -566,6 +575,7 @@
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hans",
 			);
 			mainGroup = 776210FE1E03894700BE1F88;
 			productRefGroup = 776211081E03894700BE1F88 /* Products */;
@@ -593,6 +603,7 @@
 				776211121E03894700BE1F88 /* Assets.xcassets in Resources */,
 				778532271E655AC900F3B579 /* PopView.xib in Resources */,
 				77FF259C1FEA5D710020A514 /* Login.storyboard in Resources */,
+				7753AA3821226C9900DE33A6 /* Localizable.strings in Resources */,
 				7794757B1FA31DDE005C9ECC /* PageViewController.storyboard in Resources */,
 				776211101E03894700BE1F88 /* Main.storyboard in Resources */,
 				772D867D1F57DE69007E0F19 /* SeconedList.storyboard in Resources */,
@@ -687,6 +698,7 @@
 				777824A11E28CFEF00206923 /* JTEdgePanScrollView.m in Sources */,
 				7762115E1E03DAD500BE1F88 /* TestViewController.swift in Sources */,
 				776211511E0389B000BE1F88 /* ZJCollection.swift in Sources */,
+				77683938212FA30E00B5DA7E /* UILabel+Attribut.m in Sources */,
 				7756678E1E0D0E4B00E894E0 /* MyExtensionViewController.swift in Sources */,
 				776F03241E66BB7D00E58E52 /* JAItemTableVC.swift in Sources */,
 				776F032B1E66CD5000E58E52 /* DynamicHeightCell.swift in Sources */,
@@ -784,6 +796,15 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		7753AA3A21226C9900DE33A6 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7753AA3B21226CDD00DE33A6 /* zh-Hans */,
+				7753AA3C21226CFA00DE33A6 /* en */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
 		7762110E1E03894700BE1F88 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
